@@ -25,11 +25,4 @@ The game ends when the user either:
 
 ---
 
-### 📄 How to Run:
-```bash
-python task1_hangman.py
 
----
-
-📁 File:
-task1_hangman.py
